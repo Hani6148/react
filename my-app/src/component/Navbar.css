@@ -1,0 +1,19 @@
+li{
+    display: inline;
+    margin-left: 175px
+}
+.navbar{
+height: 150px;
+z-index: 10000;
+background-color: blanchedalmond;
+opacity: 0.5;
+margin-bottom: 40px;
+font-size: -webkit-xxx-large;
+font-family: fantasy
+
+}
+.brand{
+    font-size: -webkit-xxx-large;
+    font-family: fantasy;
+
+}

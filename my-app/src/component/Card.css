@@ -1,0 +1,23 @@
+.image-block:hover {
+    position:relative;
+    top:+15px;
+    left:+15px;
+    width:inherit;
+    height:200px;
+    display:block;
+    z-index:999;
+    cursor: pointer;
+    
+}
+
+.image{
+    border-radius: 10px;
+    height: inherit;
+    width: inherit
+
+}
+.image-block{
+    width:inherit;
+    height:200px;
+
+}
